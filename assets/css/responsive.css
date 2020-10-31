@@ -162,8 +162,10 @@
 	}
 
 	.site-logo img {
-		height: 110px 22px;
+		height: 55px;
+		width: 63px;
 	}
+
 
 	/* Navigation */
 	.navbar-toggle {
@@ -458,4 +460,5 @@
 	.site-footer .col-xs-offset-3 {
 		margin-left: 0;
 	}
+
 }

@@ -1,6 +1,6 @@
 # Site Oficial - https://thiagostdio.github.io/site
 
-# Portifólio - https://thiagostdio.github.io/portifolio/
+# Portifólio - http://stdioportfolio.tk/
 
 ## Cartão Visita
 
